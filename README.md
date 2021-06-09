@@ -24,7 +24,7 @@ I'm a frontend developer, but I want to become a fullstack developer, and that's
 
 Reach me out 👇
 
-[![](https://img.shields.io/badge/-@__manel.f-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_manel.f/?hl=pt-br)](https://www.instagram.com/_manel.f/?hl=pt-br) [![](https://img.shields.io/badge/-Emanuel_Facundo-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelfacundo/)](https://www.linkedin.com/in/emanuelfacundo/) [![](https://img.shields.io/badge/-emanuel.facundo14@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:emanuel.facundo14@gmail.com)](mailto:emanuel.facundo14@gmail.com) [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)] ![](https://img.shields.io/badge/-CREEDgg_3937-7289DA?style=flat&logo=discord&logoColor=white)
+[![](https://img.shields.io/badge/-@__manel.f-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_manel.f/?hl=pt-br)](https://www.instagram.com/_manel.f/?hl=pt-br) [![](https://img.shields.io/badge/-Emanuel_Facundo-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelfacundo/)](https://www.linkedin.com/in/emanuelfacundo/) [![](https://img.shields.io/badge/-emanuel.facundo14@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:emanuel.facundo14@gmail.com)](mailto:emanuel.facundo14@gmail.com) ![](https://img.shields.io/badge/-CREEDgg_3937-7289DA?style=flat&logo=discord&logoColor=white)
 
 <!--
 **EmanuelFacundo/EmanuelFacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
