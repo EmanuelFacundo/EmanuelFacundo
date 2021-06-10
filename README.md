@@ -19,8 +19,8 @@ I'm a frontend developer, but I want to become a fullstack developer, and that's
 📚 I study computer engineering at UFC - Campus Quixadá 👨‍💻
 
 🚀 Some projects currently being deployed. 👇
-* [Calculadora Penal para um servidor do FiveM ⚖](https://calculadora-penal-cddrp.vercel.app/)🚀
-* [Desafio proposto pela empresa Tractian](https://desafio-tractian-by-emanuelf.vercel.app/)🚀
+* [Penal Calculator for a FiveM Server ⚖](https://calculadora-penal-cddrp.vercel.app/)🚀
+* [Challenge proposed by the Tractian company](https://desafio-tractian-by-emanuelf.vercel.app/)🚀
 
 Reach me out 👇
 
