@@ -2,15 +2,26 @@
 
 My name is Emanuel Facundo, i'm from Brazil 👦✌ &#x1F1E7;&#x1F1F7;
 
-I'm a frontend developer, but I want to become a fullstack developer, and that's why I'm always studying and looking for new things that can make me evolve more and more. 👨‍💻
+
+I'm a fullstack developer, currently working as an intern at the INK Reserve, and using ruby on rails as the main framework for application development. I'm part of the store squad, where we are responsible for all store features. 👨‍💻
 
 ### My skills
-
-![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat) ![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat) ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+<div style="display: inline_block">
+  <img align="center" alt="Emanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Emanuel-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Emanuel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="Emanuel-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+</div><br>
+<div style="display: inline_block">
+  <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Emanuel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="Emanuel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+</div><br>
+<div style="display: inline_block">
+  <img align="center" alt="Emanuel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Emanuel-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div><br>
 
 🌍 ***Always looking for new knowledge*** 📚
 
@@ -22,12 +33,18 @@ I'm a frontend developer, but I want to become a fullstack developer, and that's
 * [Penal Calculator for a FiveM Server ⚖](https://calculadora-penal-cddrp.vercel.app/)🚀
 * [Challenge proposed by the Tractian company](https://desafio-tractian-by-emanuelf.vercel.app/)🚀
 
-Reach me out 👇
+**Reach me out 👇**
 
-[![](https://img.shields.io/badge/-@__manel.f-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_manel.f/?hl=pt-br)](https://www.instagram.com/_manel.f/?hl=pt-br) [![](https://img.shields.io/badge/-Emanuel_Facundo-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelfacundo/)](https://www.linkedin.com/in/emanuelfacundo/) [![](https://img.shields.io/badge/-emanuel.facundo14@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:emanuel.facundo14@gmail.com)](mailto:emanuel.facundo14@gmail.com) ![](https://img.shields.io/badge/-CREEDgg_3937-7289DA?style=flat&logo=discord&logoColor=white)
+<div>
+  <a href="https://www.instagram.com/_manel.f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emanuelfacundo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:emanuel.facundo14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CREEDgg%233937-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/emanuelfacundo/emanuelfacundo/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
-![Snake animation](https://github.com/emanuelfacundo/emanuelfacundo/blob/output/github-contribution-grid-snake.svg)
 <!--
 **EmanuelFacundo/EmanuelFacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
