@@ -3,7 +3,8 @@
 My name is Emanuel Facundo, i'm from Brazil 👦✌ &#x1F1E7;&#x1F1F7;
 
 
-I'm a fullstack developer, currently working as an intern at the INK Reserve, and using ruby on rails as the main framework for application development. I'm part of the store squad, where we are responsible for all store features. 👨‍💻
+I'm a fullstack developer, currently working as an intern at the INK Reserve, and using ruby on rails as the main framework for application development. I'm part of the platform squad, where we are responsible for all store features. 👨‍💻 <br>
+And I am studying cyber security as a hobby to improve my knowledge in this area.
 
 ### My skills
 <div style="display: inline_block">
@@ -16,6 +17,7 @@ I'm a fullstack developer, currently working as an intern at the INK Reserve, an
   <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Emanuel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Emanuel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="Emanuel-Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div><br>
 <div style="display: inline_block">
   <img align="center" alt="Emanuel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -40,6 +42,7 @@ I'm a fullstack developer, currently working as an intern at the INK Reserve, an
   <a href="https://www.linkedin.com/in/emanuelfacundo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:emanuel.facundo14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/CREEDgg%233937-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://tryhackme.com/p/creedgg" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-%23c10f0f?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/emanuelfacundo/emanuelfacundo/blob/output/github-contribution-grid-snake.svg)
 </div>
