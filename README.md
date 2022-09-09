@@ -3,7 +3,7 @@
 My name is Emanuel Facundo, i'm from Brazil 👦✌ &#x1F1E7;&#x1F1F7;
 
 
-I'm a fullstack developer, currently working as an intern at the INK Reserve, and using ruby on rails as the main framework for application development. I'm part of the platform squad, where we are responsible for all store features. 👨‍💻 <br>
+I'm a fullstack developer, currently working as an intern at the Reserva INK, and using ruby on rails as the main framework for application development. I'm part of the platform squad, where we are responsible for all store features. 👨‍💻 <br>
 And I am studying cyber security as a hobby to improve my knowledge in this area.
 
 ### My skills
