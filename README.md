@@ -6,25 +6,6 @@ My name is Emanuel Facundo, i'm from Brazil 👦✌ &#x1F1E7;&#x1F1F7;
 I'm a fullstack developer, currently working as an intern at the Reserva INK, and using ruby on rails as the main framework for application development. I'm part of the platform squad, where we are responsible for all store features. 👨‍💻 <br>
 And I am studying cyber security as a hobby to improve my knowledge in this area.
 
-### My skills
-<div style="display: inline_block">
-  <img align="center" alt="Emanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Emanuel-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Emanuel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Emanuel-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Emanuel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="Emanuel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Emanuel-Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="Emanuel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Emanuel-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</div><br>
-
 🌍 ***Always looking for new knowledge*** 📚
 
 📍 I'm living in Quixadá-CE 	🐔
@@ -34,6 +15,30 @@ And I am studying cyber security as a hobby to improve my knowledge in this area
 🚀 Some projects currently being deployed. 👇
 * [Penal Calculator for a FiveM Server ⚖](https://calculadora-penal-cddrp.vercel.app/)🚀
 * [Challenge proposed by the Tractian company](https://desafio-tractian-by-emanuelf.vercel.app/)🚀
+
+### My skills
+<div>
+  <div style="display: inline-block">
+    <img align="center" alt="Emanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Emanuel-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img align="center" alt="Emanuel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img align="center" alt="Emanuel-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+  </div><br>
+  <div style="display: inline-block">
+    <img align="center" alt="Emanuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="Emanuel-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img align="center" alt="Emanuel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+    <img align="center" alt="Emanuel-Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  </div><br>
+  <div style="display: inline-block">
+    <img align="center" alt="Emanuel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align="center" alt="Emanuel-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  </div>
+  <br>
+  
+  ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelfacundo&theme=dark)
+</div>
 
 **Reach me out 👇**
 
