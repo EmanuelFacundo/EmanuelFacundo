@@ -4,7 +4,7 @@ My name is Emanuel Facundo, i'm from Brazil 👦✌ &#x1F1E7;&#x1F1F7;
 
 
 I'm a fullstack developer, and currently working as a software engnieer III at the Reserva INK, and we use RoR for application development 👨‍💻 <br>
-Currently, I am looking to deepen my knowledge about trails and their entire ecosystem.
+Currently, I am looking to deepen my knowledge about rails and their entire ecosystem.
 
 I'm fascinated by the world of rails. This desire of mine came after getting closer to the communities, even though I don't say much, I keep an eye on things that are happening daily.
 
