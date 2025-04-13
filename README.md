@@ -14,10 +14,6 @@ I'm fascinated by the world of rails. This desire of mine came after getting clo
 
 📚 I studied computer engineering at UFC - Quixadá Campus 👨‍💻
 
-🚀 Legacy projects in React 👇
-* [Penal Calculator for a FiveM Server ⚖](https://calculadora-penal-cddrp.vercel.app/)🚀
-* [Challenge proposed by the Tractian company](https://desafio-tractian-by-emanuelf.vercel.app/)🚀
-
 ### My man languages/frameworks
 <div style="display: inline-block">
   <img align="center" alt="Emanuel-Rails" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
